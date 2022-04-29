@@ -1,5 +1,5 @@
 ## About
-I am currently Ph.D. in [Material Theory and Informatics group](https://www.nmbu.no/en/groups/realtek/materialtheory) at Norwegian University of Life Sciences (NMBU) advised by [Kristian Berland](https://www.nmbu.no/emp/kristian.berland).
+I am currently Ph.D. candidate in [Material Theory and Informatics group](https://www.nmbu.no/en/groups/realtek/materialtheory) at Norwegian University of Life Sciences (NMBU) advised by [Kristian Berland](https://www.nmbu.no/emp/kristian.berland).
 
 
 ## Interests
